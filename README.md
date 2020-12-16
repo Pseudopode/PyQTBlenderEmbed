@@ -1,6 +1,6 @@
 # PyQTBlenderEmbed
 
-![Title Screen] (./docs/imgs/0_simple_embedding.jpg "")
+![Title Screen](./docs/imgs/0_simple_embedding.jpg "")
 
 Examples to show how to embed the Blender windows in a PyQT app, on **windows**.
 
